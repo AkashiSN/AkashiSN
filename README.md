@@ -9,5 +9,3 @@
     <img height="20" src="https://img.shields.io/github/followers/AkashiSN?label=Follower&logo=github&style=flat" />
   </a>
 </p>
-
-[![AkashiSN GitHub stats](https://github-readme-stats.vercel.app/api?username=AkashiSN&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
